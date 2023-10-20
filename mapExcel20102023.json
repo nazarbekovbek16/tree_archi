@@ -1,0 +1,4898 @@
+[
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-9ab8273bd5164e8d932abf6a352337ea",
+    "Process": "Финансирование и материальное обеспечение",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-5a7259b18ced4d8caae65c4f89c3a295",
+    "Process": "Ранжирование видов спорта",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-1be4f31665914b5d99aff88926aa90ea",
+    "Process": "Привлечение инвестиций",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-cb56bae30b5249488ae61922172a20d8",
+    "Process": "Обучение студентов по специальности физическая культура и спорт",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a9e78c20ccff4a8b9fdf477a85a21be3",
+    "Process": "Повышение квалификации кадров в области физической культуры и спорта ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-e817104ad31b4753beb6fe10d714e34c",
+    "Process": "Поощрение почетной грамотой, благодарственным письмом и ведомственной наградой",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-089082ccd9a748889d8c3d55ee14eb5d",
+    "Process": "Создание спортивных организаций и федераций",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-004e63e8bb434f49a03fc74528defb6c",
+    "Process": "Присвоение статуса спортивным организациям",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-9608968d660b4060b939129566b0e77f",
+    "Process": "Назначение на должности руководителей спортивных организаций и организаций спортивной медицины ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-65bb312f0ba348c3ad1cb7bca32a90fb",
+    "Process": "Признание видов спорта и спортивных дисциплин",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-bc23675d97f7487ca86fb4d6e9e76455",
+    "Process": "Строительство физкультурнооздоровительных и спортивных объектов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-72e76e6090f248478d19accece2c35ff",
+    "Process": "Планирование строительства физкультурно-оздоровительных и спортивных объектов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a209d1639bb84046a339e18c6d1de5ba",
+    "Process": "Обслуживание физкультурнооздоровительных и спортивных объектов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-ed9009ba5af140a0bbd7d3488b9c8435",
+    "Process": "Реконструкция физкультурнооздоровительных и спортивных объектов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-4ec49a15128f448fb2ce10bcb0a57e7e",
+    "Process": "Популяризация пользы физической культуры и спорта ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-4588a97559bd4c5689ad5e2483bc87d1",
+    "Process": "Освещение результатов работ по физической культуре и спорт у",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-9de091bfcbe44ecba59ac5b514686003",
+    "Process": "Создание спортивно-образовательных учреждений",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-110cd6373967444780ac16314719afb3",
+    "Process": "Создание центров развития спорта",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-7a1e8279e0d54d32aaabf8b0dca0a3f5",
+    "Process": "Формирование типовых учебных планов по видам спорта",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-14fa8338e95749039ab9613f60cb9034",
+    "Process": "Обучение физкультурным навыкам и движениям",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-f9cf01dff78f458aa59a46d1433ff7b4",
+    "Process": "Поиск талантливой молодежи",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-261aa964661246cd9e1c4dba4d1e5da4",
+    "Process": "Организация активного отдыха",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-3d4c1bd1dbef47a69cf0685b64562d57",
+    "Process": "Формирование активного социального движения",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-6c40443e57c94618922964888df776bd",
+    "Process": "Учет граждан занимающихся физической культурой и спортом ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-ad392b2f5722425381bf9a7a2b9b7340",
+    "Process": "Определение уровня физического развития населения ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-c32dcf314af84854a44c4733695f75e4",
+    "Process": "Формирование перечня соревнований",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-5867e9a51a55485aabcd61c97e361220",
+    "Process": "Формирование календаря спортивномассовых мероприятий ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-e47faca705744b78a9eedb5b5d7a910b",
+    "Process": "Распространение билетов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-55f8e12645cf4386b05bc0ee7da6179f",
+    "Process": "Обеспечение безопасности проведения спортивных мероприятий",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-d14413b9a47f49bfaa3fa8ba9d21bf5e",
+    "Process": "Мониторинг посещаемости спортивных мероприятий",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-ef791bcecebf4b359b0e933bd3f742d5",
+    "Process": "Организация спортивно-массовых мероприятий",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-8c3df5c6d88a4ae5a069aa617250657c",
+    "Process": "Формирование судейского состава",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-08370a0032d24e9a80a325a94f935c8b",
+    "Process": "Проведение классификации и отбора спортсменов к соревнованиям",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-8d8b108a4a6d486bb8d2fc619379d301",
+    "Process": "Управление результатами спортивных мероприятий",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a8b384c935954d5eb380d09237b8cacd",
+    "Process": "Разработка тренировочных программ по видам спорта",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a235ad7ee16c441296bdc730b027e835",
+    "Process": "Составление плана и графика тренировок",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a934560a2ed1406092e76795a75bf855",
+    "Process": "Проведение учебно-тренировочных сборов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-1cfaf25402cf4717a8e66095e78f364e",
+    "Process": "Квалификация тренера",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-b649cce87598426c92e4bc2866058c59",
+    "Process": "Назначение тренера",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-9a9fc3c4b59f4489a5258f3348cfa06d",
+    "Process": "Проведение тренировок",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-e234686d2ef146eeaf930dcad5694f48",
+    "Process": "Контроль питания",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-434b819d6c024107b4be08449f1827c4",
+    "Process": "Предотвращение травм",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-261eb57ea89e413595c384369856e7e6",
+    "Process": "Проверка здоровья",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-709c2f07f27e4f0b9a16a3afb30310c5",
+    "Process": "Углубленный медицинский осмотр",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-b70b239ca5ce4164ac814bd826ee6c38",
+    "Process": "Анализ физической активности",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-c758cddccb9e46f1a5ae1af1d51311be",
+    "Process": "Наблюдение и реабилитация спортсмена",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a3623f5a5e2c40609518141442fda329",
+    "Process": "Проведение научных исследований ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-949f17f8932a451ab31c4c301e7b2a20",
+    "Process": "Внедрение результатов научные исследования ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-c63bca4bb8ad4a25877e57db5bc0c607",
+    "Process": "Мониторинг и анализ статистических данных ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a64b3497de824878a852288342e2d7c7",
+    "Process": "Планирование проведения тестов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-d074401d970e4dd9becf3b142d3f7ffe",
+    "Process": "Проведение тестов на допинг ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-9b95dfba1de84c66ba0ad4d654a34ff7",
+    "Process": "Хранение и транспортировка проб",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-f3d297799e284a0ca7ab675bdc16519f",
+    "Process": "Принятие решений по результатам тестов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-4fc19512888e49729a55cf64f6ffde57",
+    "Process": "Проведение антидопинговой пропаганды",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-48b91fc36ad14f34a8d07ca3a3dbb8dc",
+    "Process": "Проведение отбора спортсменов в команду",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-4801ef80696f42cba72682407c144f48",
+    "Process": "Управление достижениями команды",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-c1ed74cd607f41fb9d269c8d078a0b19",
+    "Process": "Анализ рынка и состояния бренда",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-37d03fb63fb84a54be8a8f75135f4dbd",
+    "Process": "Разработка плана брендирования",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-aad28667bc884bcbb835f0bede9bddd2",
+    "Process": "Страхование спортсмена",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-fc011cf8a8034bb2a1f4053e19802bc3",
+    "Process": "Предоставление временного жилья ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-2a917f8670d946a99d6ce18d52377e2a",
+    "Process": "Предоставление спортивного инвентаря ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-d30701fef44f48d19caa3d26658f05ce",
+    "Process": "Материальная поддержка травмированных спортсменов ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-1418d80db438433db3c25aa5efac54c1",
+    "Process": "Материальное поощрение чемпионов и призеров, тренеров и членов сборных команд РК",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-b1004b4890fc433098c7f1a170b563fb",
+    "Process": "Анализ результатов спортсмена",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-a2ce725033dc47a0b7a7366867f450e8",
+    "Process": "Присвоение званий и разрядов спортсменам и тренерам ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-6b5c2b12e0f946a8b1972dc8588d7d23",
+    "Process": "Перехода спортсмена в другой вид спорта ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-9f7c2c52400240f5b0a7aabce055a6a5",
+    "Direction": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+    "ID Process": "id-de14ff3ab0834adf906df9df6c53e4bd",
+    "Process": "Переход спортсмена в иностранную спортивную организацию",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-92271c79d38a4f01b5436943ce6fd42d",
+    "Process": "Выявление новых сегментов рынка",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-0fa2e380860a466ba2f818b615920cec",
+    "Process": "Проведение стратегических исследований ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-1be4f31665914b5d99aff88926aa90ea",
+    "Process": "Привлечение инвестиций",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-35c2e383801a46d9bdae704a0fa96e70",
+    "Process": "Пропаганда ценностей туризма среди населения",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-234e9c62d7db435aa856a5b90bff1bc7",
+    "Process": "Разработка информационно рекламной стратегии",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-390f5b4972e045b783a512631a286e43",
+    "Process": "Продвижение туристских дестинаций и тур продуктов на внутреннем и международном рынках",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-2091ec3ee1464853be284ae9a3cc7a30",
+    "Process": "Национальный туристский брендинг",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-fe3c977536ec4149857302b1ce56b5ba",
+    "Process": "Разработка туров и маршрутов по Казахстану",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-c4a202ee06834920ae439977842a47c4",
+    "Process": "Предоставление туристских продуктов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-060ee458b0854a93ac7b75ed0bd30954",
+    "Process": "Страхование туристов ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-59f945effd3e41a08c3dc218b1045743",
+    "Process": "Управление тур агентствами и тур операторами",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-244647f7a1c74c558d32c50ac5e40abf",
+    "Process": "Управление гарантированным фондом",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-c337c2ed161b4345861911d72d21b6c6",
+    "Process": "Вывоз граждан РК с территории страны (места) временного пребывания ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-b2efd60c3fe948e1b4a759e20b49c664",
+    "Process": "Обеспечение размещения в местах временного пребывания туристов ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-2302f911f6724f0ca70d8896f8d32940",
+    "Process": "Организация питания граждан РК",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-fb949dd0064d49e892f90120f6c7a17e",
+    "Process": "Оценка качества услуг по перевозке пассажиров",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-3fc1e9f228194b91a86aabc1f7e9e589",
+    "Process": "Формирование новых направлений перевозок",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-869c12d1b0844fa29ecc062be08a0dc2",
+    "Process": "Организация чартерных авиационных перевозок",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-bee6855e8f9b4cb5b1299d41a5d9886f",
+    "Process": "Определение приоритета развития транспортной инфраструктуры",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-886688cfa1274afcbcd007e051d6da55",
+    "Process": "Регистрация иностранных граждан, временно пребывающих в Республике Казахстан",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-31df6767a3b647a5a2e854a3623da54f",
+    "Process": "Временная регистрация граждан РК ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-878749ffeb9f4a9cab43477f0b1d75c0",
+    "Process": "Организация без визового въезда для иностранных туристов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-97cadb8827bc46db998270edd0491bed",
+    "Process": "Анализ потока туристов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-bfbb7321b32f468fb55d1bb79eaad9a5",
+    "Process": "Выявление востребованных туристических направлений",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-6b056a4b146b416aabcae5c468094478",
+    "Process": "Мониторинг туристского Потенциала",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-732972c878024cc2990cdb3c2eb74326",
+    "Process": "Создание мест размещения Туристов",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-d85d25a7b1ef4689998f58bc3cc42674",
+    "Process": "Классификация и учет мест размещения туристов и стандартов обслуживания",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-d073ec2c323247d789ce0462e4430214",
+    "Process": "Составление туристических маршрутов и троп",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-2dfccfff2417416f86a1d782aea8286d",
+    "Process": "Управление гидами, экскурсоводами, инструкторами",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-696cbe65bf914b0f88c5a7987886de22",
+    "Process": "Обучение и повышение квалификации специалистов ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-10519a50ef7c42e098742c304e9bf52b",
+    "Process": "Создание туристских классов, секций и кружков",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-24634ce858b74433943001e3f5d93273",
+    "Process": "Планирование и строительство объектов туристскойдеятельности ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-593d1c904f9c4801980ba1cb051e2c77",
+    "Process": "Предоставление в пользование объектов туристской деятельности",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-35405b7b6bf4430ebabdd428633ae5ff",
+    "Process": "Защита объектов туристской деятельности",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-594e06cc640d4dfa91cbd988595fcbdd",
+    "Process": "Анализ рынка туристских услуг ",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-3a7ea9c558704cfc9ff8d25db0bfee3b",
+    "Process": "Мониторинг туристской привлекательности объектов и территорий",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "Спорт и Туризм",
+    "ID Direction": "id-8ee146b333e04582bee401e7d19cff08",
+    "Direction": "ТУРИЗМ",
+    "ID Process": "id-af9cdcbef4ef4988a6c60699006ad1e5",
+    "Process": "Оценка качества туристских услуг",
+    "Documentation": "",
+    "Owner": "Министерство туризма и спорта РК"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-655002b082b24eb3a7e2d0907359cf0c",
+    "Process": "Забота о собственном здоровье",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-5eff61ef584b4070a5685f2829012606",
+    "Process": "Программа управления заболеваниями",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-d1f0c707c6f74e1c8aa407de7f52ae13",
+    "Process": "Иммунизация и скрининг населения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-f4cb9126a3184320bcb4531338281261",
+    "Process": "Профилактика социально – значимых и не инфекционных заболеваний",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-3a71319a7165486a82cc6ece4d9dacf1",
+    "Process": "Гигиеническое обучение",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-7d1318308b0c424bbb0d6be95fd54edd",
+    "Process": "Диспансеризация и учет",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-60151211204e46a18af7f874ba7aa8bd",
+    "Process": "Пропаганда и методическое обеспечение организаций здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-db0d60710d6d43d6971786a1e2c38d5f",
+    "Process": "Мониторинг и контроль норм и производства продуктов питания",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-4db15f1ac41d45518ee2e4e6c33eefa9",
+    "Process": "Мониторинг и контроль субъектов и объектов влияющих на здоровье человека",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-d8d9a325e13b4758a0f91dfceba21115",
+    "Process": "Наблюдение за состоянием здоровья населения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-004375ae644442c3a543dee9ed06dc97",
+    "Process": "Мониторинг факторов риска заболеваний",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-0ced8469729946c592ae14eb2e4f515b",
+    "Process": "Предупреждение пыток, наказания и жестоких видов обращения с пациентами",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-ad506cea16c24cdd8158dac9121ccb4c",
+    "Process": "Ведение клинических протоколов оказания медицинской помощи",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-9cb9ce0a60444c8dbf5bbb341949dc5f",
+    "Process": "Ведение стандартов организации оказания медицинской помощи и аккредитации организаций здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-fa1570a12d104644a7de37e249019627",
+    "Direction": "ПРЕДУПРЕЖДЕНИЕ И ПРОФИЛАКТИКА ЗАБОЛЕВАНИЙ",
+    "ID Process": "id-cc1327cfa06d442aa39242b45d187169",
+    "Process": "Регулирование цен и тарифов",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-3191ae1cd86d49e49012e8a696d2a9fb",
+    "Process": "Планирование посещения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-ae505b0fee2c42eeba4c8b4663769bcf",
+    "Process": "Триаж (сортировка)",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-b5429575db864923b3ab71d516ef7391",
+    "Process": "Направление профильному врачу",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-b1aeabd36d1a400e8b0fe4fb2f4be3e0",
+    "Process": "Управление листами ожидания",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-5a96f5a7be814d8ba266eb371d209278",
+    "Process": "Расчет стоимости услуг",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-8481f2934dcf4ed7b2929b0bafaaf0f1",
+    "Process": "Обеспечение гарантированного объема бесплатной медицинской помощи",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-7b7da3b728a84ec6978801d8c17111fd",
+    "Process": "Обеспечение ОСМС",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-c2575288f83040f89bfaa8c507f13e35",
+    "Process": "Аккредитация в области здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-8d13a7471dff468db030476b0fcdc743",
+    "Process": "Лицензирование и сертификация медицинской и фармацевтической деятельности",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-5a61b443cc2141fbbd624d1c742006c1",
+    "Direction": "ОБРАЩЕНИЕ ГРАЖДАН В МЕДИЦИНСКУЮ ОРГАНИЗАЦИЮ",
+    "ID Process": "id-dcda80f01dbe47788a5997e87c4c859b",
+    "Process": "Аттестация на профессиональную компетентность специалистов в области здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-a7471e4d9e9d44f6a57124a4f4226dd0",
+    "Direction": "ДИАГНОСТИКА",
+    "ID Process": "id-a23107c4a2804b08a5b28c24a8e6d53b",
+    "Process": "Клинический осмотр",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-a7471e4d9e9d44f6a57124a4f4226dd0",
+    "Direction": "ДИАГНОСТИКА",
+    "ID Process": "id-f645dd06da86433799561bbf34158a99",
+    "Process": "Диагностическое исследование",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-a7471e4d9e9d44f6a57124a4f4226dd0",
+    "Direction": "ДИАГНОСТИКА",
+    "ID Process": "id-31f8fc9b63884ccf832eba2418cfccc3",
+    "Process": "Наблюдение за состоянием",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-a7471e4d9e9d44f6a57124a4f4226dd0",
+    "Direction": "ДИАГНОСТИКА",
+    "ID Process": "id-b3d67b3ce9f2454ea5ca516e16b2c77e",
+    "Process": "Установление диагноза",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-a7471e4d9e9d44f6a57124a4f4226dd0",
+    "Direction": "ДИАГНОСТИКА",
+    "ID Process": "id-c92e7c56384c45e49809ab9ddd3f3bbd",
+    "Process": "Обеспечение служб крови",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-a7471e4d9e9d44f6a57124a4f4226dd0",
+    "Direction": "ДИАГНОСТИКА",
+    "ID Process": "id-9aa6119f033946ea91e32fccd3fc916b",
+    "Process": "Обеспечение служб транспортировки",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-0a61cdd2316a44068f43c5cab55176b3",
+    "Direction": "ЛЕЧЕНИЕ",
+    "ID Process": "id-ff71d26c424a40df9d1a86d520627ab3",
+    "Process": "Формирование планов лечения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-0a61cdd2316a44068f43c5cab55176b3",
+    "Direction": "ЛЕЧЕНИЕ",
+    "ID Process": "id-2bdbc15dd6394f46957c7e90221ca20f",
+    "Process": "Проведение лечения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-0a61cdd2316a44068f43c5cab55176b3",
+    "Direction": "ЛЕЧЕНИЕ",
+    "ID Process": "id-e708f1819db1499eba326fb2b16933d9",
+    "Process": "Ведение истории болезни",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-0a61cdd2316a44068f43c5cab55176b3",
+    "Direction": "ЛЕЧЕНИЕ",
+    "ID Process": "id-411a3380533647b49fd238057afd45d8",
+    "Process": "Обеспечение лекарственными средствами и изделиями медицинского назначения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-0a61cdd2316a44068f43c5cab55176b3",
+    "Direction": "ЛЕЧЕНИЕ",
+    "ID Process": "id-2e7694b7db4447af93d2f29291a8e3a5",
+    "Process": "Проведение доклинических и клинических исследований",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-0a61cdd2316a44068f43c5cab55176b3",
+    "Direction": "ЛЕЧЕНИЕ",
+    "ID Process": "id-264903c732a7474aadf9262885cada9a",
+    "Process": "Экспертиза и регистрация лекарственных средств",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-0a61cdd2316a44068f43c5cab55176b3",
+    "Direction": "ЛЕЧЕНИЕ",
+    "ID Process": "id-63a557b45e274192b6e6c4e6908b87f3",
+    "Process": "Формаконадзор и контроль за обращением лекарственных средств, изделий медицинского назначения и медицинской техники",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-2dade913e0f84935af76b61c4b7288e1",
+    "Process": "Подача жалобы",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-4cec533e101745e9a201ad8a4f445c9f",
+    "Process": "Медико-социальная экспертиза",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-c171d53c7aeb401faab182f78f7e733a",
+    "Process": "Судебно-медицинская экспертиза",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-7650a1638bd54716b37005bfc8b014dd",
+    "Process": "Судебно-наркологическая экспертиза",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-621925c43e964ad0a61a1136d541ba4f",
+    "Process": "Судебно-психиатрическая экспертиза",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-ab027b1c01f84478b9b686eac2288374",
+    "Process": "Внутренняя экспертиза качества медицинских услуг",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-1d0ad7e0a7484fd59a1b4726ed40a8af",
+    "Process": "Внешняя экспертиза качества медицинских услуг",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-3a3ce68245eb4932b718e74a53be05dd",
+    "Process": "Контроль в сфере оказания медицинских услуг",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-0c14b66a467d4cd3a1da2690effc1d62",
+    "Process": "Возмещение затрат",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-cf23cd86cbe340bcb7a2dcad9c1da107",
+    "Process": "Развитие сети здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-157a27693ef84635bac44b54b7597321",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-584c0659da8845919754155fdf2fa681",
+    "Process": "Контроль кадрового обеспечения здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-4e8e97e385274d1c9f984a2c3b38a4d6",
+    "Direction": "РЕАБИЛИТАЦИЯ, ВОССТАНОВЛЕНИЕ И УХОД",
+    "ID Process": "id-1276794c5fd546c48c1550621ccdc59c",
+    "Process": "Восстановительная терапия",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-4e8e97e385274d1c9f984a2c3b38a4d6",
+    "Direction": "РЕАБИЛИТАЦИЯ, ВОССТАНОВЛЕНИЕ И УХОД",
+    "ID Process": "id-52d836b7ddb043bca11f1ab2a4e1e344",
+    "Process": "Предоставление технических вспомогательных (компенсаторных) и специальных средств",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-4e8e97e385274d1c9f984a2c3b38a4d6",
+    "Direction": "РЕАБИЛИТАЦИЯ, ВОССТАНОВЛЕНИЕ И УХОД",
+    "ID Process": "id-8d7bef56c809463187f7aa4a0e196162",
+    "Process": "Санаторно-курортное лечение",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-4e8e97e385274d1c9f984a2c3b38a4d6",
+    "Direction": "РЕАБИЛИТАЦИЯ, ВОССТАНОВЛЕНИЕ И УХОД",
+    "ID Process": "id-ffd6acf9f3d44ca3b4fcde7faa28d713",
+    "Process": "Обеспечение гарантированного объема специальных социальных услуг",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-4e8e97e385274d1c9f984a2c3b38a4d6",
+    "Direction": "РЕАБИЛИТАЦИЯ, ВОССТАНОВЛЕНИЕ И УХОД",
+    "ID Process": "id-95551bc37e014f3381ab1902a95f7581",
+    "Process": "Контроль в области социальной защиты инвалидов и оказания ССУ",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-49ce668c01044e6caa6a6271cfb88b4a",
+    "Process": "Внедрение государственных стандартов и типовых программ обучения медицинского и фармацевтического образования",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-0954760ad1414c3f8ca7fdf5e4769c1f",
+    "Process": "Обеспечение медицинскими  кадрами",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-af69baa1843a4b49b9c35150962b4774",
+    "Process": "Организация и управление клиническими базами",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-46828af5320e4dc5bffb1f94f0b7d18b",
+    "Process": "Оценка соответствия требованиям",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-024b29e6320c4242b8904b965b8e92e0",
+    "Process": "Планирование и реализация учебно-воспитательного процесса",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-5cc76729cfde4630a96866bffd24eafb",
+    "Process": "Подготовка кадров здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-7ea4dccb344d45a98e3e7911c5eda099",
+    "Process": "Послевузовское обучение и повышение квалификации",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-9fff2057e6a54e98a2ef5906517ad990",
+    "Process": "Прогнозирования и планирования кадров здравоохранения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-b0dc6fe2fb0c4ebc8cc4fc7454deb712",
+    "Direction": "МЕДИЦИНСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-4385dfbe4c5447169d0ef1911bea1380",
+    "Process": "Студенческий набор, зачисление, управление и поддержка студентов",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7e80d27cda4b4a429b5f1e46dce8bf59",
+    "Direction": "НАУКА",
+    "ID Process": "id-57c2f547c7df459baa67794579ba1269",
+    "Process": "Формирование приоритетных и перспективных направлений развития научной и инновационной деятельности",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7e80d27cda4b4a429b5f1e46dce8bf59",
+    "Direction": "НАУКА",
+    "ID Process": "id-9103227534694c3cbe79246824fd58bb",
+    "Process": "Организация лабораторий коллективного пользования",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7e80d27cda4b4a429b5f1e46dce8bf59",
+    "Direction": "НАУКА",
+    "ID Process": "id-62ca22f64ab642f09fea315b50854139",
+    "Process": "Научные, аналитические исследования и разработки",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7e80d27cda4b4a429b5f1e46dce8bf59",
+    "Direction": "НАУКА",
+    "ID Process": "id-7b2a0998aa1847c5970e108e693bfcc1",
+    "Process": "Анализ и мониторинг реализации научных проектов и программ",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7e80d27cda4b4a429b5f1e46dce8bf59",
+    "Direction": "НАУКА",
+    "ID Process": "id-36c63e933e1e47aba8355d33494509a1",
+    "Process": "Научно-медицинская экспертиза",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7e80d27cda4b4a429b5f1e46dce8bf59",
+    "Direction": "НАУКА",
+    "ID Process": "id-f53bd33a7f314243b70775951708ca4b",
+    "Process": "Внедрение в практику результатов научных исследований",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-99bf2b12b19f4d789b49ca1f7e9e70fa",
+    "Process": "Контроль и мониторинг прохождение обязательного и профилактического медицинского осмотра на объектах проверки",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-41f74095e94b47df9c78648eddbf87a3",
+    "Process": "Фитосанитарный контроль на границах, в аэропортах РК",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-96b2161e0d254311a62135ebb87ef451",
+    "Process": "Мониторинг окружающей среды ",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-a3e1f926d6994ca28255481ae4ec9eb4",
+    "Process": "Контроль и надзор объектов подлежащих к санитарному аудиту",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-419476acf33a4c3e92b14ae36280ed03",
+    "Process": "Мониторинг уничтожения медицинских отходов",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-e1e3931946f54a40a7549d9347fa9551",
+    "Process": "Сбор и обработка информации по инфекционным и паразитарным заболеваниям ",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-4cf13832ee1f484c91a8a5d9cae4c9a5",
+    "Process": "Расследование случаев инфекционных и паразитарных заболеваний",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-f40cf9c8a7f84b878d8ab8c0dd461f78",
+    "Process": "Мониторинг и контроль заболеваемости населения инфекционными и неинфекционными заболеваниями",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-495be0e3cbd445859b00b80ea5e04b8d",
+    "Process": "Прогнозирование заболеваемости населения инфекционными и неинфекционными заболеваниями",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-899d4cd8f3ef48909bf81adc82ad6b0f",
+    "Process": "Проведение профилактических мер по инфекционным и паразитарным заболеваниям",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-ac0941fc25dc4655b24188a9f1619a79",
+    "Process": "Планирование отбора проб продукции товаров и продуктов питания",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-45deb4cf42414f9999011323ae89161b",
+    "Process": "Проведение исследований на соответствие безопасности и качества продукции и товаров",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-15d7ef58bf6942769489c50db5db879f",
+    "Process": "Мониторинг безопасности продукции и товаро",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Здравоохранение",
+    "ID Direction": "id-7ce5ad8f250c421d861eeb420628cee4",
+    "Direction": "САНИТАРНО-ЭПИДЕМИОЛОГИЧЕСКОЕ БЛАГОПОЛУЧИЕ НАСЕЛЕНИЯ",
+    "ID Process": "id-6b82ab70e06f4975a12dd7b7d80c714b",
+    "Process": "Ведение реестра несоотвествующей продукции и товаров",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-f5e54817b94c4333afe73b6fdf868289",
+    "Process": "Создание, реорганизация и ликвидация организаций культуры",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-a3e997f557af4d278e86cbb3ee11ece5",
+    "Process": "Обеспечение материально-технической  базой",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-1f631891c12e479fbed4f4a8dee2ff60",
+    "Process": "Мониторинг деятельности организаций культуры",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-cfb06a1980734627ad784212ac9464a9",
+    "Process": "Создание произведений искусства",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-ca90b145defa4cc3b2dd51dc5d65d312",
+    "Process": "Производство театральной продукции ",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-b0e3eecf29504187846f9ff97dd81f58",
+    "Process": " Приобретение общественно значимой литературы",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-dc00e9bc884c4ad0bb72dd16e29982f7",
+    "Process": "Отслеживание талантливой молодежи и перспективных творческих коллективов",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-ba469aa67b0948ec940f08e92c805ce9",
+    "Process": "Оценка творческой деятельности",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-b7197bd997644585bcd31831e5189e04",
+    "Process": "Издание и распространение общественно значимой литературы",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-799d71a9ddcf421aa07541e59e19c684",
+    "Process": "Прокат фильмов",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-3e859f4db193425d84511f0177b4ba6d",
+    "Process": " Оценка репертуаров творческих коллективов ",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-551da7f0677e46c3a0fc651558244e9e",
+    "Process": "Передача и списание сценическо-постановочных средств ",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-9a16ad1d9eaa4a72b588ed9be9a601c8",
+    "Process": "Пропаганда историко-культурных объектов и творческих достижений искусства республики",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-191365ca61794e4591598d88eb354b74",
+    "Process": "Организация мероприятий в различных сферах творческой деятельности",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-26b16ecb61a54588a6b9f7b03d7efbae",
+    "Process": " Распространение билетов",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-ff05dcdccd6b406d84f6a524815c43ee",
+    "Process": "Управление результатами мероприятий",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-dff84e58a24a4ee99595bc2863e91c23",
+    "Process": "Мониторинг посещаемости мероприятий",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-4b15b8e510014104b4eec3aa23231699",
+    "Process": "Сооружение памятников",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-18f0341cfd7e4f2885bb1f42d2b13f9e",
+    "Process": "Создание музейного и библиотечного фонда",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-cce8966e866443f0a150de06cd3d5582",
+    "Process": " Регистрация авторского права",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-26e7423daced46fd9ed6eeab3f6da419",
+    "Process": "Перемещение историко-культурных объектов",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-a485c17f03ef4106a918503651853b19",
+    "Process": "Обеспечение сохранности объектов культуры",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-1364563b84ce4409a210b7580d563a6b",
+    "Process": "Реставрация памятников и монументов",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-345bd24c1ec040b9a57a14eb622f0709",
+    "Process": "Организация технического сопровождения памятников",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-9078de3a3a044175b7105e27ff9051c3",
+    "Direction": "КУЛЬТУРА",
+    "ID Process": "id-f39d56c303b44421a29a3a3731432b1d",
+    "Process": " Проведение археологических раскопок",
+    "Documentation": "Участником процесса является МКИ РК",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-4854a7df9d6a43b68e6fdeac520349df",
+    "Direction": "СРЕДСТВА МАССОВОЙ ИНФОРМАЦИИ",
+    "ID Process": "id-fc5c8140a544459085fa0301d53376ed",
+    "Process": "Определение приоритетов развития СМИ",
+    "Documentation": "",
+    "Owner": "Министерство культуры и информации  РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-4854a7df9d6a43b68e6fdeac520349df",
+    "Direction": "СРЕДСТВА МАССОВОЙ ИНФОРМАЦИИ",
+    "ID Process": "id-7bc58b960bd14db6add8c6ffb7878680",
+    "Process": "Повышение качества контента ",
+    "Documentation": "",
+    "Owner": "Министерство культуры и информации РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-4854a7df9d6a43b68e6fdeac520349df",
+    "Direction": "СРЕДСТВА МАССОВОЙ ИНФОРМАЦИИ",
+    "ID Process": "id-0db10c148162426c98431dd889b25cbe",
+    "Process": "Оказание поддержки журналистам ",
+    "Documentation": "",
+    "Owner": "Министерство культуры и информации РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-4c7ade3f550941648704310f4c0da183",
+    "Direction": "РЕЛИГИЯ",
+    "ID Process": "id-ea7eb06454b34028ba4ae3e7ae6b31fd",
+    "Process": "Проведение религиоведческой экспертизы",
+    "Documentation": "",
+    "Owner": "Министерство культуры и информации РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-4c7ade3f550941648704310f4c0da183",
+    "Direction": "РЕЛИГИЯ",
+    "ID Process": "id-3339693e53b54f21aabf819e5a7f22f4",
+    "Process": "Оценка иностранных религиозных объединений",
+    "Documentation": "",
+    "Owner": "Министерство культуры и информации РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-4c7ade3f550941648704310f4c0da183",
+    "Direction": "РЕЛИГИЯ",
+    "ID Process": "id-7b1f751bf7f14b389c4202bed4b32aed",
+    "Process": "Издание тематических материалов и литературы",
+    "Documentation": "",
+    "Owner": "Министерство культуры и информации РК"
+  },
+  {
+    "Domen": "КУЛЬТУРА РЕЛИГИЯ СМИ",
+    "ID Direction": "id-4c7ade3f550941648704310f4c0da183",
+    "Direction": "РЕЛИГИЯ",
+    "ID Process": "id-21b64e7bef20472791a92fa475d7786c",
+    "Process": "Определение направления/приоритетов в религиозной сфере",
+    "Documentation": "",
+    "Owner": "Министерство культуры и информации РК"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-4f5cc008f2f146b1abff727f0f9b8947",
+    "Direction": "ДОШКОЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-f8d2d87a396e4ca3a359bb272ac935dc",
+    "Process": "Прием в дошкольные организации образования",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-dd678dd9bced4842afccbb0266cc8525",
+    "Process": "Определение специальных образовательных условий ",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-4d3753e106324930bfe1ea40fe69c236",
+    "Process": "Определение требований к оснащению ОО",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-a7ba9ce7d2b14cd881dfe24bf57c8fa4",
+    "Process": "Организации деятельности специальных организаций образования",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-bd71f90d73cc4e41a54afb68bf386fb6",
+    "Process": "Прием в организации среднего образования",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-1939874d9f5949a39cd25b23a14515b1",
+    "Process": "Прием в организации ТиПО",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-6cc8c96af469461db91dbb1b8e5e20f7",
+    "Process": "Организация обучения лиц осужденных к лишению свободы",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-81e246b1b12942209aa3938fe6ac4cf4",
+    "Process": "Проведение олимпиад, конкурсов",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-2be767576a1144d696ff07a469fddfef",
+    "Process": "Определение порядка обучения",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-3ba172824dbd44f1b28f42b0a9f0f728",
+    "Process": "Перевод и восстановление обущающихся",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-dc6627d150e74c6898efc4bddb105903",
+    "Process": "Духовно-нравственное воспитание",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-f073d86f044942b996d2282fbd6da494",
+    "Process": "Определение квалификационных требований к педагогическим работникам",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-fa7390c35ef64842b2ee7093a9a94b08",
+    "Process": "Формирование государственного образовательного заказа на подготовку специалистов ДО/СО/",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-4997c778ef134dfa81c1c4f6cd6812d1",
+    "Process": "Повышение квалификации педагогов",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-151cbafb1eb447eba2470c08f0708619",
+    "Process": "Стимулирование и мотивация педагогов",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-bc78ed52a2994c5089a20824599becec",
+    "Process": "Формирование классификатора специальностей и квалификаций ТиПО",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-f3bd14c829d24b5aa03bea2d2ee3bd32",
+    "Process": "Организация питания обучающихся",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-0b6088141b114e38b0a8fc61078f50cc",
+    "Direction": "СРЕДНЕЕ И СРЕДНЕ СПЕЦИАЛЬНОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-97350a480c6a4830af81a876776bf452",
+    "Process": "Обеспечение льготного проезда для обучающихся",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-a8e6253282f046aeb9c586a5cead1584",
+    "Direction": "ВЫСШЕЕ И ПОСЛЕВУЗОВСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-29a5af8329a64517b3da9d359ff2cc5f",
+    "Process": "Прием в организации послевузовского образования",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-a8e6253282f046aeb9c586a5cead1584",
+    "Direction": "ВЫСШЕЕ И ПОСЛЕВУЗОВСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-493b84d215e247b6a73be9cbad864f9a",
+    "Process": "Прием в организации ВО",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-a8e6253282f046aeb9c586a5cead1584",
+    "Direction": "ВЫСШЕЕ И ПОСЛЕВУЗОВСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-784cbef0329b446ea720becf67b3660d",
+    "Process": "Социальные услуги в области образования. Разработка стандартов оказания специальных социальных услуг",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-a8e6253282f046aeb9c586a5cead1584",
+    "Direction": "ВЫСШЕЕ И ПОСЛЕВУЗОВСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-742768b1601643839a59648209106336",
+    "Process": "Предоставление специальных социальных услуг",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-a8e6253282f046aeb9c586a5cead1584",
+    "Direction": "ВЫСШЕЕ И ПОСЛЕВУЗОВСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-f2b39a6710d34d0fa108e3a5295a46a9",
+    "Process": "Мониторинг и контроль предоставления специальных социальных услуг",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-a8e6253282f046aeb9c586a5cead1584",
+    "Direction": "ВЫСШЕЕ И ПОСЛЕВУЗОВСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-34e74db8ec034aab8fa1b38c65bce03a",
+    "Process": "Мониторинг трудоустройства выпускников по специальности, обучавщихся по государственным грантам, квотам",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Образования",
+    "ID Direction": "id-a8e6253282f046aeb9c586a5cead1584",
+    "Direction": "ВЫСШЕЕ И ПОСЛЕВУЗОВСКОЕ ОБРАЗОВАНИЕ",
+    "ID Process": "id-ecc715a83d3c4bd18f33e5bc38d79c26",
+    "Process": "Мониторинг исполнения обязательств выпускниками, обучавшихся по государственным грантам, кредитам, квотам",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4e46bf95c65d42fcadb091eacd69c54e",
+    "Direction": "ОБЕСПЕЧЕНИЕ СЕЛЬСКОХОЗЯЙСТВЕННОЙ ТЕХНИКОЙ",
+    "ID Process": "id-73e5fed61f194032a577ec9f33775008",
+    "Process": "Государственная регистрация техники",
+    "Documentation": "",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4e46bf95c65d42fcadb091eacd69c54e",
+    "Direction": "ОБЕСПЕЧЕНИЕ СЕЛЬСКОХОЗЯЙСТВЕННОЙ ТЕХНИКОЙ",
+    "ID Process": "id-4752162faafb46f7877d97b7e5ca5df0",
+    "Process": "Выдача удостоверении на право управления техникой",
+    "Documentation": "",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-67919af93d0b437db5d7d608cd84196c",
+    "Process": "Формирование маршрутов и расписаний",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-67ebfbe915be43baa0a0f9cd15d861dc",
+    "Process": "Установление квалификационных требований",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-f52d56d01881427a8c99ff7f5cbc9355",
+    "Process": "Техническая эксплуатация и ремонт",
+    "Documentation": "",
+    "Owner": "Министерство внутренних дел РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-1d6ff49c87b848f6a977235dde9a4986",
+    "Process": "Осуществление допуска к эксплуатации",
+    "Documentation": "",
+    "Owner": "Министерство внутренних дел РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-af2ae477bb414959ac8dcdee703a953f",
+    "Process": "Определение перевозчика",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-a85908187f6d46f0930c1744be081878",
+    "Process": "Управление воздушным движением",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-c32c7ed558834db1841a1b09d949998f",
+    "Process": "Управление движением водного транспорта",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-8ca4e9cbf31a4eb2a2b66d051e228b79",
+    "Process": "Управление движением автомобильным транспортом",
+    "Documentation": "",
+    "Owner": "Министерство внутренних дел РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-2d2108368a7744369213d08fb8951408",
+    "Process": "Управление движением железнодорожным транспортом",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-70f89ef388a049678c685bb36fd6c973",
+    "Process": "Предоставление финансовых мер господдержки",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-a4319e7cccc94f7b9d6811af0e227fd3",
+    "Process": "Тарифообразование",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-48aa3bb903ce430c8aa2738a3a5a91e6",
+    "Process": "Управление грузовыми перевозками",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "Транспорт",
+    "ID Direction": "id-4c80666581864555aedcad74c6f0c3ce",
+    "Direction": "ТРАНСПОРТНЫЕ ПЕРЕВОЗКИ",
+    "ID Process": "id-b2328efefb8f45aeaf706359120a13ad",
+    "Process": "Управление пассажирскими перевозками",
+    "Documentation": "",
+    "Owner": "Министерство транспорта РК"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-3c67f038c8e04ec2b2d157a05dd80bcd",
+    "Process": "Формирование сведений о субъектах и объектах налогообложения/платежей",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-5e9d7c0e149443feb76691e00a54d6c2",
+    "Process": "Определение субъектов имеющих   право на налоговые вычеты, льготы и  преференции",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-3ef55514404345dc8b50a3519741c7c3",
+    "Process": "Ведение учета контрольно-кассовых  машин",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-a0a330459085415c9f14fb7bb5c0c1bd",
+    "Process": "Исчисление отдельных видов  налогов и платежей в бюджет",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-72fdaa3929bf4940a70ce0c838193f7d",
+    "Process": "Прием налоговых и неналоговых  поступлений ",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-64384f0ea07947dbbd22fd67aa68f526",
+    "Process": "Зачет и/или возврат налоговых и   неналоговых поступлений ",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-edef2f7f4a4d4e55a276b9e546703eb7",
+    "Process": "Наложение ограничений и санкций ",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-868c6e80f40343189b6be36484db5a78",
+    "Process": "Проведение камерального контроля/  Анализ статистики и уровня риска",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-6c1e93a73a0f4e93b698f182cba90eb5",
+    "Process": " Взыскание задолженности",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-4f662422163b4203a64de6887d03eaa3",
+    "Process": "Проведение налоговых проверок ",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-36fec7af4e8947bba838a487faa40b42",
+    "Direction": "НАЛОГОВОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-b53b9bc2e66c4a3bbbeb0701c27e352d",
+    "Process": "Анализ исполнения налогового плана",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-03f079f39832429b9e19d3493710f64d",
+    "Process": "Оформление таможенного  транзита",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-0296bec17cf940e788ffaa4c01b10d2d",
+    "Process": "Рассмотрение и принятие таможенных документов",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-89b1a29161794f5e8552bf20c687a411",
+    "Process": "Осуществление транспортировки товаров",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-a2fb870a0c214f0ea6ab4e63af84e5fb",
+    "Process": "Помещение товаров на временное хранение",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-be574ef17e9f46269f1233d9a72a75cb",
+    "Process": "Прием таможенной декларации",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-144ef1ace8a34a6aad82646b4451777e",
+    "Process": "Осуществление мер/форм таможенного контроля",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-2741dd13ec744337ab899ec4300f7916",
+    "Process": "Осуществление контроля таможенных документов",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-120e6bbf711545f0b99af72225d8d78c",
+    "Process": "Осуществление контроля за таможенными платежами",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-5fdc9d38f7f647e5b062e3b4f18c4886",
+    "Process": "Осуществление контроля таможенных процедур",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-60e22879dcc9453b9c16008243b0914e",
+    "Process": "Осуществление таможенной проверки",
+    "Documentation": "Участником процесса является КГД МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-25e1e991ebf4403cb601cf6d218eb16c",
+    "Direction": "ТАМОЖЕННОЕ АДМИНИСТРИРОВАНИЕ ",
+    "ID Process": "id-461a3a54f997406da37234a3fefd0190",
+    "Process": "Контроль за перемещением товаров через Государственную границу РК",
+    "Documentation": "",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-cc3a529610654c5b99b1e5ad3f1ecc1b",
+    "Process": "Разрешительная деятельность",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-2f03225b40ff451aba430cca82022000",
+    "Process": "Лицензирование ",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-a534074e49bf49b38d592ddd90740f16",
+    "Process": "Регулирование и контроль деятельности",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-ab769a1502bc4c9cb14ecbab23f763f3",
+    "Process": "Применение мер надзорного реагирования",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-b0a18beb79c747619de991ef48b9bac2",
+    "Process": "Реорганизация",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-b13b8f7604c04014856b8831dcd0c645",
+    "Process": "Консервация",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-66621020dd374bc19ece99cb4f6599ca",
+    "Process": "Ликвидация",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-cd77e594a0a84c748d9d8298f4f632bc",
+    "Process": "Применение мер реагирования на рынке ценных бумаг",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-a14478e0162e45ac80b87c9e83e328bf",
+    "Direction": "РЕГУЛИРОВАНИЕ ФИНАНСОВОГО РЫНКА",
+    "ID Process": "id-26d946d724f442c9a3ebd3e1949a7fe3",
+    "Process": "Обеспечение кибербезопасности  на рынке ценных бумаг",
+    "Documentation": "Участником процесса является АРРФР",
+    "Owner": "АРРФР"
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-18d409eaf50f453c894bf5029ec240f4",
+    "Process": " Формирование потребностей Заказчиков в закупках",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-5f615097cd4b46c78601f5bd45d38643",
+    "Process": "Предоставление документов для проведения закупок",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-371b3c5b21b04e249a3d24c2e5217660",
+    "Process": "Объявление закупа",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-efce1301291844c4a80f1593ab4c9ea3",
+    "Process": " Определение победителя ",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-057af6ff1c374655b80e3ba84a9d5dbe",
+    "Process": "Выполнение принятых обязательств по договору ",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-83a1bbf3eea54c3cb882b198f2ab6e47",
+    "Process": " Анализ и подготовка отчетности",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-a44671a46b9544a48ef96d33119c909c",
+    "Process": "Проведение аудита",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-4eca98ad41cf49abb67db21c03628492",
+    "Process": "Ведение реестров ",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "ФИНАНСЫ",
+    "ID Direction": "id-565f1a7496ee49f998606cc7bed75d13",
+    "Direction": "ГОСУДАРСТВЕННЫЕ ЗАКУПКИ",
+    "ID Process": "id-86fa7ad37a504dbaad6119fa6ee395b3",
+    "Process": "Проведение камерального контроля",
+    "Documentation": "Участником процесса является МФ РК",
+    "Owner": "Министерство финансов РК "
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-9243d6f63d8741b6818c04fc733bb177",
+    "Direction": "ЖИВОТНОВОДСТВО",
+    "ID Process": "id-3d79f04036654eba8a7551fcde65df4b",
+    "Process": "Нормирование и регламентирование животноводства",
+    "Documentation": "Нормирование и регламентирование животноводства",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-9243d6f63d8741b6818c04fc733bb177",
+    "Direction": "ЖИВОТНОВОДСТВО",
+    "ID Process": "id-cfb16c3774b84efca50497d8306bf23e",
+    "Process": "Осуществление мер государственной поддержки",
+    "Documentation": "Осуществление мер государственной поддержки",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-9243d6f63d8741b6818c04fc733bb177",
+    "Direction": "ЖИВОТНОВОДСТВО",
+    "ID Process": "id-60da755525e54e4087efa06ba64a08c8",
+    "Process": "Селекционная и племенная деятельность",
+    "Documentation": "Осуществление селекционной и племенной деятельности",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-9243d6f63d8741b6818c04fc733bb177",
+    "Direction": "ЖИВОТНОВОДСТВО",
+    "ID Process": "id-55b2f3bb3c15462fa802c084bda39e55",
+    "Process": "Воспроизводство объектов животноводства",
+    "Documentation": "Воспроизводство объектов животноводства",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-9243d6f63d8741b6818c04fc733bb177",
+    "Direction": "ЖИВОТНОВОДСТВО",
+    "ID Process": "id-a2cc2f6bd9c645d6be7b1b5c8bfc4187",
+    "Process": "Подготовка инфраструктуры",
+    "Documentation": "Подготовка инфраструктуры",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-9243d6f63d8741b6818c04fc733bb177",
+    "Direction": "ЖИВОТНОВОДСТВО",
+    "ID Process": "id-55b64661047b4d3daea969f01bc343f3",
+    "Process": "Осуществление карантинных мер",
+    "Documentation": "Осуществление карантинных мер",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-9243d6f63d8741b6818c04fc733bb177",
+    "Direction": "ЖИВОТНОВОДСТВО",
+    "ID Process": "id-8e46285c40b14ca6949c760da3ad8434",
+    "Process": "Учет ветеринарных препаратов, кормов и кормовых добавок",
+    "Documentation": "Учет ветеринарных препаратов, кормов и кормовых добавок",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-80bf5417166b47e5ae934c2c1d983c8b",
+    "Process": "Карантин растений",
+    "Documentation": "Карантин растений",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-4dfce55da8504eddafff07abf26c29d6",
+    "Process": "Оказание мер государственной поддержки",
+    "Documentation": "Оказание мер государственной поддержки",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-b15df4e0413241c38093687c02c51f75",
+    "Process": "Семеноводство",
+    "Documentation": "Семеноводство",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-f633a76ce0474ca09f6db2bb11dec507",
+    "Process": "Зерновая отрасль",
+    "Documentation": "Зерновая отрасль",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-9cf446e8c099468b9fd823992667b50a",
+    "Process": "Хлопковая отрасль",
+    "Documentation": "Хлопковая отрасль",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-2e456ba6cd1040bbb1e505510b871802",
+    "Process": "Осуществление селекционной и племенной деятельности",
+    "Documentation": "Осуществление селекционной и племенной деятельности",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-6ac27e7152a647b1905f27852f033a98",
+    "Process": "Регистрация пестицидов",
+    "Documentation": "Регистрация пестицидов",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-821293b235ad42b19faa22bfd958cbc1",
+    "Process": "Фитосанитария",
+    "Documentation": "Фитосанитария",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-0f03a86e5b4240a698e266f189629330",
+    "Process": "Агрохимическое обследование почвы",
+    "Documentation": "Агрохимическое обследование почвы",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "Сельское Хозяйство",
+    "ID Direction": "id-b7ca82b135ee401486e021bbe0b3fb33",
+    "Direction": "РАСТЕНИЕВОДСТВО",
+    "ID Process": "id-f9d2ff92f4e44382a243dd8888a308ce",
+    "Process": "Использование пестицидов",
+    "Documentation": "Использование пестицидов",
+    "Owner": "Министерство сельского хозяйства РК"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-0dd16a480a29447c8825005717b41cba",
+    "Process": "Обучение, инструктаж и проверка знаний",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-0bcba1d07ad64785ab5ceb32089f79cb",
+    "Process": "Страхование жизни",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-3ce0510bc6c84ff4b0c9848a49ead0f2",
+    "Process": "Обеспечение спецодеждой и питанием",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-fb4ec592512a4fbdbad33881a339ccfe",
+    "Process": "Анализ причин производственного травматизма, профессиональных заболеваний и отравлений",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-206f4deb32e94eddbde6799f3c48423f",
+    "Process": "Мониторинг и оценка рисков в сферебезопасности и охраны труда",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-ddeadb75fa46480da58e8994602991a7",
+    "Process": "Контроль за соблюдениям требований в сфере  охраны и безопасности труда",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-c8a4558052e841788c4edb49ba827826",
+    "Process": "Контроль за своевременным и объективнымпроведением расследования несчастныхслучаев на производстве",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-4dbf6c54a0fe47998e11ebb4fca15368",
+    "Process": "Декларирование деятельности работодателя",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-7a45a7c936474b72bc5088bbcad60548",
+    "Direction": "БЕЗОПАСНОСТЬ И ОХРАНА ТРУДА",
+    "ID Process": "id-41597712aa9e48b5ab737a6239c6faf0",
+    "Process": "Аттестация производственных объектов",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-96648c589f1744f8a1cb1bd21ea1fd6e",
+    "Process": "Управление правовой статистикой",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-cbb16b4915654468b6e472bb2f49b5d1",
+    "Process": "Предупреждение правонарушений ",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-947cb6cd72194ea6bd515a9de2375148",
+    "Process": "Рассмотрение заявлений/жалоб лиц",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-7dc4d358b2344182b5706ee89caf3389",
+    "Process": "Проведение проверок и фиксация правонарушений",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-d35a02b6b88046a9a9a5efc1c7ada727",
+    "Process": "Задержание лиц",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-7b3131096cd346ab961439dbe9aa16da",
+    "Process": "Задержание транспортных средств, судов",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-a97a552d9dda471fa79d59e8154edea6",
+    "Process": "Применение мер обеспечения (производства/исполнительных документов)",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-8b42dde59ee44dc7a2c1659af49f597a",
+    "Process": " Проведение Опросов (сбор показаний)",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-102dfe8143864e6092054ddd38efc23d",
+    "Process": "Проведение досмотра/осмотра",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-6cfb1c7e49d34955a5c64217527673c0",
+    "Process": "Сбор и получение образцов",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-5a94da5fb5aa4846a587c45e8fe260fd",
+    "Process": "Проведение экспертиз и исследований",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-87e4cad7be2a4eb9ae215215df76b223",
+    "Process": "Управление вещественными доказательствами",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-5502936da8b545b993a13b31a5e38061",
+    "Process": "Принятие дела в производство",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-78e0b341d3554d079914e4a65688c559",
+    "Process": " Отбор участников процесса",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-5f665ff45d944dbdab46beed62c2e46b",
+    "Process": "Рассмотрение дела ",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-13e632120c3444199b31a7705ac6502e",
+    "Process": "Вынесение постановлений по делу",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-02749927678048e0b502fa5ede9487fa",
+    "Process": "Инициация исполнительного производства",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-2e050eb237314ded98bcec2d085c5cda",
+    "Process": "Розыск лиц",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-285fec55a4294ccb92839cae31583092",
+    "Process": "Взыскание имущества с должника",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-ceb08ad4fadd4999b2b67774ee751d9a",
+    "Process": "Управление изъятым имуществом",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-f24ee9aed8174772a788203634e468d3",
+    "Process": "Реализация имущества",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-8d6c89af158a446bab9fe395bea66b6e",
+    "Process": "Исполнение решений неимущественного характера",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-97436cdf5b154dd39ed388862c1451ef",
+    "Direction": "АДМИНИСТРАТИВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-cf5423232bfe49aea6fe0982c32c95a0",
+    "Process": "Профилактический контроль",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-2f5453da345c42e3b931505e514db74e",
+    "Process": "Предупреждение преступлений ",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-eb122e32a1de4a99aa9c23f8ad433914",
+    "Process": "Обеспечение правопорядка",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-c78b265a92974eb6835027191471df8b",
+    "Process": "Осуществление производства по дела",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-3b83a8f18b104af0a1c0bbc9c04db89c",
+    "Process": "Выдача лиц (экстрадиция)",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-067c2643dbc844cc8285b79ab27f861c",
+    "Process": "Наблюдение за лицами",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-ac860ae6713147cfa2c66ca24c029c72",
+    "Process": "Осуществление контрольного закупа",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-a81f6041203d47b6934269661b00059d",
+    "Process": "Обеспечение контроля за каналами связи",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-a12a4b64495341c4b920973d6ee6d4b4",
+    "Process": "Проведение допросов/опросов",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-2e74bda4a8e444f1a3a8105d399665a0",
+    "Process": "Проведение эксгумации",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-6973e0085b2043cda857295b67c32eb0",
+    "Process": "Проведение осмотров, освидетельствования, обыска",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-e26a40856b5b477bb11dd6799f8c200c",
+    "Process": "Опознание предметов и лиц",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-03c26bf9c9b348b48d309cb0f78dfa1e",
+    "Process": "Получение образцов",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-25c904281488463f99ec81aaa8efe1b4",
+    "Process": "Определение подозреваемого и квалификация деяния",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-fb20acd069bf46d8beb15f7837d4d97a",
+    "Process": "Применение мер пресечения и принуждения",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-921fa283a05745208433e55c40d4828e",
+    "Process": "Заключение процессуальных соглашений",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-596ff75c91654e8e978e7a7001a308e5",
+    "Process": "Прекращение досудебного расследования",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-c041ba4871d146859fc627e02d7b3af2",
+    "Process": "Формирование обвинительного акта",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-e1509b729fc24a5aafad9893023255bd",
+    "Process": "Принятие дела в производство (предварительное слушание",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-f9aa6a4807714411a5125d956b6ea345",
+    "Process": "Отбор участников процесса",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-39a89b0b2cb84f8d99a5e3c6943aa4a0",
+    "Process": "Проведение судебного слушания",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-97367672fecf429ca6a2c343573e6978",
+    "Process": "Вынесение судебных актов",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-a2d176e162a74c0cbd298f2d85ee2b1e",
+    "Process": "Профилактический и пробационный контроль",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-acc002664c224fb9b99128f56a51106f",
+    "Process": "Управление программами исправления и социальной адаптации",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-0fc835b5b09242e8820ee08190d97bfd",
+    "Process": "Осуществление взысканий с осужденного",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-8349f64da46044e3a861cfe7e6076910",
+    "Process": "Возмещение вреда лицам",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-d39d2713fa6748a9af1477d6ed44ee83",
+    "Process": "Распределение по местам заключения",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-7f0d1ba65136436482f4b4a0c5093a68",
+    "Process": "Организация свиданий, телефонных переговоров и выездов",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-adf8b42125d240afa67eaaee30e2aed1",
+    "Process": "Организация переписки, отправки и приема посылок",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-470fb52ba5bd4334acdf98d6bb6e2898",
+    "Process": "Управление денежными переводами",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-8bce60fe86624352b3d3db1e2875e822",
+    "Process": "Оказание санитарно-профилактической помощи",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-5dfb7ae289cd4ca882eaf2eb6ba4def8",
+    "Direction": "УГОЛОВНЫЕ ПРАВОНАРУШЕНИЯ",
+    "ID Process": "id-3e72b5c4b68944c1a9b2644b01e000bb",
+    "Process": "Принятие решений по осужденным",
+    "Documentation": "",
+    "Owner": "Генеральная прокуратура РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-c6999700fcf043f08a9f0aff3827f8b6",
+    "Process": "Разработка НПА в сфере ликвидации ЧС",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-2de567c6db354cb895d01b32e972bee0",
+    "Process": "Силы и средства МЧС ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-166a7fb48a1b49168d16fe8d8fcad762",
+    "Process": "Управление материально техническими ресурсами",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-5ee811658c53481a99ec051a411a7c15",
+    "Process": "Поддержание и развитие систем связи",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-f90894bc4a2047258be4cf592502757a",
+    "Process": "Оперативное управление подразделениями Министерства при ликвидации чрезвычайных ситуаций (регистрация, принятие решений, высылка сил и средств)",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-342d265627d640ff86f93539e5f1a01b",
+    "Process": "Организация и обеспечение взаимодействия и координации Министерства, государственными органами и другими организациями",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-8cb6186137a54f6baf2390861f3d70f1",
+    "Process": "Поддержание в постоянной готовности сил и средств",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-2ff3e61340774b3f975e009f1a1b262b",
+    "Process": "Оперативное управление и контроль за деятельностью ДДС территориальных подразделений, подведомственных государственных учреждений и организаций ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-dee8475534194706887adf9e293ff1ca",
+    "Process": "Сбор, формирование и обеспечение прогнозной информацией ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-af9434de7fa149e992ec5510e85cc3e2",
+    "Process": "Ведение учета и обработка происшествий, чрезвычайных ситуаций ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-7ce1c95dff654f0a91bcac28b0dbbbc0",
+    "Process": "Ведение учета и обработка происшествий, чрезвычайных ситуаций по телефону Горячая линия, психологическая помощь/поддержка для населения",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-3a0706a0336f43778ea116c7452582a9",
+    "Process": "Оповещение   населения и информирование органов управления о ЧС",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-34f759b0952a4c4d8f0e7b2215f02359",
+    "Process": "Оперативное управление силами и средствами (принятие решений)",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-661b326d305e4de29259f56b62b08628",
+    "Process": "Оказание экстренной медико-психологической помощи при ЧС",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-53f8d6478aac4f6cae5a6b965c3fda35",
+    "Process": "Формирование и накопление оперативной сводки, результаты реагирования",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-a53b4a657a6b4220a20f11571b3f238f",
+    "Direction": "Ликвидация ЧС природного и техногенного характера",
+    "ID Process": "id-e58228ee9bf44785b9dd3e0506e94fd0",
+    "Process": "Формирование и ведение фото-видео архива, в том числе оказания медико-психологической помощи",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-50cdad479202413c9b6def214a380994",
+    "Process": "Разработка и утверждение правил, программ, планов и требований в области предупреждения чрезвычайных ситуаций",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-0739ba5ecb454d5d83028ee42b9187cf",
+    "Process": "Анализ состояния и развития служб мониторинга и прогноза",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-42a76f6da8cc418dbc848de9dc80b853",
+    "Process": "Определение потребности в вооружении, технике и других материально- технических средствах в интересах предупреждения чрезвычайных ситуаций",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-c28d68ab99a249a7bf582167c6d27d7a",
+    "Process": "Определение структуры паспортов безопасности чрезвычайных ситуаций природного и техногенного характера",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-fc3fc8942858431d945afbf1c2015a1d",
+    "Process": "Формирование и ведение паспортов безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-ae5f224eee754440af4ea5a8b964dcd2",
+    "Process": "Создание единого банка данных, и интерактивной карты по прогнозированию и управлению рисками",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-702d552f032f423181615ed503eb9c2d",
+    "Process": "Осуществление информационно- аналитической деятельности в области предупреждения ЧС",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-45fc6763440e44deb01f9e9f3682b519",
+    "Process": "Осуществление взаимодействия с организациями, проводящими мониторинг опасных природных явлений и их прогноз",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-341dde4f9b6042c68cc4bce10fb8ec5c",
+    "Process": "Формирование карты природно- техногенных рисков",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-bf5875bbf3584315aea599d49dca8632",
+    "Process": "Организация превентивных мероприятий по снижению опасности населенных пунктов и объектов хозяйствования от селей, оползней, лавин, паводков и наводнений",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-1ab4b7184fd244a5b701a52108ed544d",
+    "Direction": "Предупреждение ЧС природного и техногенного характера",
+    "ID Process": "id-f38f9324ba804c539fc746c1079adb06",
+    "Process": "Организация информирования населения,государственных органов и организаций по линии предупреждения чрезвычайных ситуаций",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-bb81f52ebbb24fb0af0f37e0628f849e",
+    "Process": "Разработка и утверждение правил, программ, планов и требований в области  пожарной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-dd2e9978930b42a79b7cf56065c79749",
+    "Process": "Разработка подзаконных нормативных правовых актов,  определяющих порядок оказания государственных услуг",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-01fdaf22a3864bcd83f44e8d4fbb4e24",
+    "Process": "Учет сил  и средств противопожарных служб ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-74c8fc8f38ce45eaa510761986dc562e",
+    "Process": "Подготовка и планирование сил и средств противопожарных служб  ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-169419e5e655469ca22b33de5a601d2a",
+    "Process": "Аттестация негосударственных противопожарных служб, Аккредитация экспертных организаций по аудиту в  области пожарной безопасносни  ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-9d367229208246b1bc03cfe5fe32a98c",
+    "Process": "Пропаганда знаний, обучение населения, должностных лиц  и специалистов организаций в области пожарной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-e40507081ecd49c0b233010b7994e4f7",
+    "Process": "Ведение  учёта  субъектов, объектов контроля и надзора",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-ce8355e6f73341e5b58c4d6b29accb9b",
+    "Process": "Ведение учёта фактов пожаров, несчастных случаев,  произошедших ЧС природного и техногенного характера",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-ccfea6581f7b43a38dadbb5dc227bec1",
+    "Process": "Разработка графика проверок в области пожарной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-ba6e79ec7e0446078ecbf1fb71db5082",
+    "Process": "Осуществление проверок  в области пожарной  безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-102a459b84954b61876b5f61ef391ce7",
+    "Process": "Осуществление производства дел об административных правонарушениях в области пожарной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-087942db96874837959395231f3745de",
+    "Process": "Формирование материалов по делу и проведение экспертизы",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-c0bd8b15a46c43ea828055a1351c0da5",
+    "Process": "Фиксирование результатов расследований по делам о пожарах ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-d36508b440a34b20862b18466198ffcd",
+    "Process": " Расчет уровня риска поднадзорных субъектов, разработка критерии оценки степени риска и проверочных листов в области пожарной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-cdaa0159c5f643d69097ddfe6c4f325d",
+    "Process": "Проведение ежегодного анализа по деятельности ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-8cd6c39d2f4b4177a133bbdda910e1be",
+    "Direction": "Пожарная безопасность",
+    "ID Process": "id-b7353999e564489a8b706c69ed8f34ec",
+    "Process": "Подготовка предложений и рекомендаций в области пожарной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-c2e135e85f894faea9b7795eb192e4d7",
+    "Process": "Разработка и утверждение правил, форм, стандартов и требований в области гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-f1c5b3f447ff4e7fadef7a5d8b5e56c4",
+    "Process": "Обучение представителей центральных государственных органов и местных исполнительных органов, ДЧС областей, городов республиканского значения и столицы ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-89ddc6fd42b84ae483c6d3ba80a71ed9",
+    "Process": "Проведение учений и тренировок ДЧС областей, городов республиканского значения и столицы  в сфере гражданской защиты ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-6ba28d8729c74bb89d0befc0d52fb7cb",
+    "Process": "Ведение и учет  территориальныхформирований Гражданской защиты",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-1d00386a441246c0877384e3ddc25367",
+    "Process": "Ведение и учет  объектовых формирований Гражданской защиты",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-c890e4e997ae4200af5767a749ee3747",
+    "Process": "Учет и планирование сил воинских частей гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-33788a09418c49519709584948a2a31f",
+    "Process": "Планирование применения воинских частей для участия в мероприятиях по предупреждению и ликвидации ЧС",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-37961ce8d31245b4b98562ce274719a1",
+    "Process": "Ведение учета подконтрольных субъектов и объектов в области гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-dba4fec3a0c046f28d7fba9da40e878e",
+    "Process": "Планирование и учет проведения контроля, формирование графика проверок и журнала профилактического контроля",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-42c20375dceb49a1a12544ee80777ed9",
+    "Process": "Осуществление мероприятий по проверкам в области гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-d5d7f4f0a970420c86ca9c708ca0c506",
+    "Process": "Осуществление производства дел об административных правонарушениях в области гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-ce10ff47d2124c27b99bea035560a659",
+    "Process": "разработка методических рекомендаций в области гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-f8748a264f664dbcafba744a7b734288",
+    "Process": "Подготовка предложений по совершенствованию деятельности в области гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-cfea7b850553467f973a1452bc493a1e",
+    "Direction": "Гражданская оборона",
+    "ID Process": "id-0a542563ab9545df9d946e40bf02fb03",
+    "Process": "Формирование анализа деятельности,  статистических данных  и отчетности  в области гражданской обороны",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-349edc60694141e9bd196a359386b38c",
+    "Process": "Разработка и утверждение правил, программ, планов и требований в области промышленной  безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-dd2e9978930b42a79b7cf56065c79749",
+    "Process": "Разработка подзаконных нормативных правовых актов,  определяющих порядок оказания государственных услуг",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-b2057c0841a54b5c82f3c2d8389c5659",
+    "Process": "Выдача и согласование  разрешений, проектных документаций, проведение аттестации в области промышленной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-e40507081ecd49c0b233010b7994e4f7",
+    "Process": "Ведение  учёта  субъектов, объектов контроля и надзора",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-f84fc5fddd4240ae9126a86b6a5c5482",
+    "Process": "Ведение учёта аварий и инцидентов на опасных производственных объектах",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-d4269acbdc3340b2a63dd46f23e0238f",
+    "Process": "Ведение реестра поставленных на учет и снятых с учета опасных технических устройств",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-61c8e24811ea4cfca5e51ba6f0fefdd3",
+    "Process": "Разработка графика проверок в области промышленной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-4359bdb62bf540d1a899fd4cb0a09367",
+    "Process": "Осуществление проверок в области промышленной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-e0b154a52ef84cd7b2beb1bf6016d1ce",
+    "Process": "Осуществление расследований на опасных производственных объектах",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-317f93cc9c604c72a080a7f423f5acd6",
+    "Process": "Осуществление производства дел об административных правонарушениях в области промышленной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-cdb0dd9c61c741568830f5f6e2ad7ecf",
+    "Process": " Расчет уровня риска поднадзорных субъектов, разработка критерии оценки степени риска и проверочных листов в области промышленной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-cdaa0159c5f643d69097ddfe6c4f325d",
+    "Process": "Проведение ежегодного анализа по деятельности ",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-917a9a76cd704ebcaa2de1407d4566ae",
+    "Direction": "Промышленная безопасность",
+    "ID Process": "id-ca7adba82edc4284af0da7ffaf8719f3",
+    "Process": "Подготовка предложений и рекомендаций в области  промышленной безопасности",
+    "Documentation": "",
+    "Owner": "Министерство по чрезвычайным ситуациям РК"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-3d10c9b51d714633b5cb2f2813c9d804",
+    "Direction": "Финансовый мониторинг",
+    "ID Process": "id-84ab5585c4f5453fb22c635f95a9f444",
+    "Process": "Осуществление противодействия легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма, организации, участвующие в проведении денежных операций",
+    "Documentation": "",
+    "Owner": "Агентство РК по финансому мониторингу"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-3d10c9b51d714633b5cb2f2813c9d804",
+    "Direction": "Финансовый мониторинг",
+    "ID Process": "id-b3541f5f832247deb694880224938738",
+    "Process": "Уведомление о  подозрительных операциях с деньгами, иным имуществом",
+    "Documentation": "",
+    "Owner": "Агентство РК по финансому мониторингу"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-48a5b2ef8162441f847f0a2337cb0659",
+    "Direction": "Правоохранительная деятельность",
+    "ID Process": "id-4eb372150ea148a59410e0e4948e42db",
+    "Process": "Розыск граждан, скрывшихся от уголовного преследования",
+    "Documentation": "",
+    "Owner": "Агентство РК по противодействию коррупции"
+  },
+  {
+    "Domen": "Правосудие и безопасность",
+    "ID Direction": "id-eae45e10c0304c1d8c41392f8e895017",
+    "Direction": "Превенция коррупции",
+    "ID Process": "id-ac605f224d6343728c3a88c4a3bf6bcd",
+    "Process": "Предупреждение коррупции (обучения граждан принципам добропорядочности и «нулевой терпимости» к коррупции)",
+    "Documentation": "",
+    "Owner": "Агентство РК по противодействию коррупции"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-fdd5fd4d45fa484d9f9ceef6fcb8ee23",
+    "Process": "Назначение социальных выплат и пособий",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-374848c2d021425bb8728a43d76b22ab",
+    "Process": "Назначение пенсионных выплат",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-7da35bbc8bd84c0c841409318bd30dcf",
+    "Process": "Субсидирование пенсионных взносов",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-77e7ecd387dd4326b3b3ef7821348354",
+    "Process": "Управление социальными отчислениями",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-ef76a07a96494991857fd19dac0370e8",
+    "Process": "Управление пенсионными взносами",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-2e6e9ff5a6724616bf8772def3a171b7",
+    "Process": "Определение черты бедности",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-21aab5607de74ad192dc99c8938a0b3c",
+    "Process": "Возвращение на историческую родину",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-6ce7cef891a94fb799b12b795c56cdd0",
+    "Process": "Контроль за полнотой и своевременностьювыплат",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-2c3591b520d54f6ebe2a303bd63da8fb",
+    "Process": "Улучшение жилищно бытовых условий",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-5d5e407cd4b44898bfeb7dc8125ff379",
+    "Process": "Контроль миграции",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-c11f01e24ad148ebb9a08c74da17cb38",
+    "Direction": "СОЦИАЛЬНАЯ ЗАЩИТА",
+    "ID Process": "id-3cb69a52b3394116a1f1db5eb73098e3",
+    "Process": "Ведение учета трудовых мигрантов иэтнических казахов",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-f3866c28b84b4aefad182ee5086bb0e5",
+    "Direction": "ОЦЕНКА КАЧЕСТВА, ЭКСПЕРТИЗА И ОПЛАТА МЕДИЦИНСКИХ УСЛУГ",
+    "ID Process": "id-1b3964deb31d4b4f8a93a02a1cb0a563",
+    "Process": "Медико-социальная экспертиза",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-ae9e83c540504439920cac02e0153b50",
+    "Direction": "РЕАБИЛИТАЦИЯ, ПОДДЕРЖКА И УХОД",
+    "ID Process": "id-aeabeccba4bb48ae9094d4add370c5b8",
+    "Process": "Восстановительная терапия",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-ae9e83c540504439920cac02e0153b50",
+    "Direction": "РЕАБИЛИТАЦИЯ, ПОДДЕРЖКА И УХОД",
+    "ID Process": "id-f98842acd37b40ad82a63a4dcc3e541a",
+    "Process": "Предоставление техническихвспомогательных и специальных средствпередвижения",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-ae9e83c540504439920cac02e0153b50",
+    "Direction": "РЕАБИЛИТАЦИЯ, ПОДДЕРЖКА И УХОД",
+    "ID Process": "id-f14dc95f03b043179973712f3cd33807",
+    "Process": "Санаторно-курортное лечение",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-ae9e83c540504439920cac02e0153b50",
+    "Direction": "РЕАБИЛИТАЦИЯ, ПОДДЕРЖКА И УХОД",
+    "ID Process": "id-f4c0af51525840cf94a6fe231b99677b",
+    "Process": "Предоставление специальных социальных услуг",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-ae9e83c540504439920cac02e0153b50",
+    "Direction": "РЕАБИЛИТАЦИЯ, ПОДДЕРЖКА И УХОД",
+    "ID Process": "id-55a1784f2cb74720b073703d2a92384d",
+    "Process": "Мониторинг предоставления специальныхсоциальных услуг",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-ae9e83c540504439920cac02e0153b50",
+    "Direction": "РЕАБИЛИТАЦИЯ, ПОДДЕРЖКА И УХОД",
+    "ID Process": "id-d49f27c6d99f41cabb5142c7dff0347e",
+    "Process": "Мониторинг причин, структуры и состояния инвалидности",
+    "Documentation": "",
+    "Owner": "Министерство здравоохранение РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-00f55601d674478d96478d42c590868f",
+    "Direction": "ОБЕСПЕЧЕНИЕ ДОСТУПНОСТИ СОЦИАЛЬНОЙ ПОДДЕРЖКИ",
+    "ID Process": "id-6ebae31e16bd4b70ada9f43ad8e805ef",
+    "Process": "Обеспечение гарантированного объема специальных социальных услуг",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-00a97f1440ba4663af9f041722164abf",
+    "Process": "Профессиональная ориентация",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-71d7177355fb4b8699a23d20ab553be9",
+    "Process": "Профессиональное обучение",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-7c6ab82e8e7a42198cfcf32cd7da4631",
+    "Process": "Содействие добровольному переселению",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-d5c82ab0f18746cabc13373e6099ac51",
+    "Process": "Развитие предпринимательской инициативы",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-d4a48965ad9141958a07a740a0cc6579",
+    "Process": "Организация молодежной практики",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-d7e2a39c33f44bbe8de76ffd77720d34",
+    "Process": "Организация специальных и социальныхрабочих мест",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-e6602100b46b4b9c8e5e5f0e38491e77",
+    "Process": "Организация общественных работ",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-087517624d2546ea866c63cdc3c4ea4e",
+    "Process": "Трудоустройство безработных",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-aaedb4a18a284955ae1a4a5ef723d497",
+    "Process": "Разработка профессиональных стандартов",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-36bc72a600874e70af8580bf6f32a0ad",
+    "Process": "Определение перечня работ, профессий идолжностей, квалификационных и тарифноквалификационных характеристик",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-fdfe1d3501414cb2b08949d71ffa8683",
+    "Process": "Определение нормативов численности работников",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-06c01c4f0cf344d1b2eb458bebce8499",
+    "Process": "Содействие в создании рабочих мест",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-75087db594d0493aafcf78b803e450c2",
+    "Process": "Управление трудовой миграцией",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-30bbd8c54702442c873766ecc955e305",
+    "Direction": "СОЗДАНИЕ РАБОЧИХ МЕСТ",
+    "ID Process": "id-390c40714f0f4523a8ec8bc1a60dfd00",
+    "Process": "Контроль в сфере занятости",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-6c0c44f4e1914d3ca60e06fbeb0a3f22",
+    "Direction": "РЕГУЛИРОВАНИЕ ТРУДОВЫХ ПРАВ",
+    "ID Process": "id-8de80a25db784ee0b500e95992077da4",
+    "Process": "Заключение трудовых и коллективныхтрудовых договоров",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-6c0c44f4e1914d3ca60e06fbeb0a3f22",
+    "Direction": "РЕГУЛИРОВАНИЕ ТРУДОВЫХ ПРАВ",
+    "ID Process": "id-0873264d3f904dba82926deabc6881db",
+    "Process": "Разрешение трудовых споров",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-6c0c44f4e1914d3ca60e06fbeb0a3f22",
+    "Direction": "РЕГУЛИРОВАНИЕ ТРУДОВЫХ ПРАВ",
+    "ID Process": "id-3c61f4fd0a00435d913bf8c4833a2ceb",
+    "Process": "Контроль за соблюдением трудового законодательства",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-6c0c44f4e1914d3ca60e06fbeb0a3f22",
+    "Direction": "РЕГУЛИРОВАНИЕ ТРУДОВЫХ ПРАВ",
+    "ID Process": "id-2ed8f4ef92934f05a8be4e3d1dec16be",
+    "Process": "Социальное партнерство",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-6c0c44f4e1914d3ca60e06fbeb0a3f22",
+    "Direction": "РЕГУЛИРОВАНИЕ ТРУДОВЫХ ПРАВ",
+    "ID Process": "id-feb9d351ddce42ffa8c294f2cd23940b",
+    "Process": "Регулирование норм и нормативов по труду",
+    "Documentation": "",
+    "Owner": "Министерство труда и социальной защиты населения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-266509d31eca4f42b0a48a9d19589e04",
+    "Process": "Установление образовательных стандартов и минимальных социальных гарантии",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-2a3052376b994a9db566f60bf186e1cd",
+    "Process": "Создание, реорганизация и ликвидация организаций для детей-сирот и детей, оставшихся без попечения родителей",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-ca02ea5673414097977862d9773dfa04",
+    "Process": "Формирование госзаказа на специальные кадры (психологи, логопеды, соцработники)",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-5a56e357fafd410eb1f564718c098d27",
+    "Process": "Формирование госзаказа на повышение квалификации педагогических и руководящих работников ",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-0a54a1d4f5d64849aa82db54561779a4",
+    "Process": "Учет детей-сирот и детей, оставшихся без попечения ",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-aca9c940b23040f7a119d5d3ea126929",
+    "Process": "Учет лиц, желающих усыновить детей",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-20f87d77d6d742d79b65e2c0b6c85f51",
+    "Process": "Передача детей в опеку, попечительство, патронат",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-8aa049ce7af04a19959cbfa8e25ee5a6",
+    "Process": " Передача детей на усыновление",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-162ccab12019410c8b6235c2e6129255",
+    "Process": "Назначение пособия опекунам или попечителям на содержание ребенка- сироты (детей-сирот) и ребенка (детей), оставшегося без попечения родителей",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-707b93144f52400b8eef7724609663a5",
+    "Process": "Назначение выплаты денежных средств на содержание ребенка (детей), переданного патронатным воспитателям",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-d043ddadb2754c449522e690f72cc1f8",
+    "Process": "Назначение единовременной денежной выплаты в связи с усыновлением ребенка- сироты и (или) ребенка, оставшегося без попечения родителей",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-54397438e5994393a1e3d33eac1b4248",
+    "Process": "Формирование доклада о положении детей в РК",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-2aa485d6c2d24bfdba3f8250a3cdb646",
+    "Process": "Аккредитация организаций по устройству детей-сирот в семьи граждан РК",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-0b6a0b2036684ecdaaec37e35c713808",
+    "Process": "Аккредитация агентств по усыновлению",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-c76e46ead1ac43f3b1ff9f96f803cc72",
+    "Process": "Контроль за детьми, переданными на усыновление (в т.ч. иностранцам)",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-e89a73cf1a784f8dbfc944fd3ea2713b",
+    "Process": "Контроль соблюдения прав и законных интересов детей",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-b8da830dcb9e4464acf25adc7ebb5ea8",
+    "Process": "Контроль деятельности управлений образования МИО по вопросам усыновления (удочерения), опеки, попечительства, патроната, приемной и гостевой семьи",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-69b497472bb4483a8575bd487ca0e0d4",
+    "Process": "Мониторинг и анализ организации питания и подвоза детей в ОО,ОЗ, ОСЗН",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-2642ca5b047d4aaf810780be90e37b5b",
+    "Process": "Контроль деятельности органов и ОО (для детей-сирот и детей, оставшихся без попечения родителей)",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-5612826e5497460e8c095fce4c580f2f",
+    "Process": "Профилактический контроль ОО",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "Социальное обеспечение",
+    "ID Direction": "id-d751b08a55684bf19cbe072e19caa8c2",
+    "Direction": "ЗАЩИТА ПРАВ И ИНТЕРЕСОВ ДЕТЕЙ",
+    "ID Process": "id-f5cfc72c1bc64c4ea17294f6ef0e7149",
+    "Process": "Проведение проверок и фиксация правонарушени",
+    "Documentation": "",
+    "Owner": "Министерство просвещения РК"
+  },
+  {
+    "Domen": "",
+    "ID Direction": "",
+    "Direction": "",
+    "ID Process": "",
+    "Process": "",
+    "Documentation": "",
+    "Owner": ""
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-3148d32fbb214620bf46e6e9cfeeafd4",
+    "Process": "Осуществление лицензирования или разрешительных процедур",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-22a5016f737248c8b1618d03772e2c43",
+    "Process": "Оценка сбора и хранения лома",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-5833b9ae9dd44dea8f87c7163405dcc3",
+    "Process": "Предоставление мер гос.поддержки",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-88bba8faadf84bf8873bda85e61093cd",
+    "Process": "Профилактический контроль производственных объектов",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-2ae23cf909b04bbbae191884a12ea24e",
+    "Process": "Регулирование производства драгоценных металлов и изделий",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-b5a7e318254e4b9e83c54ba8d8bb252b",
+    "Process": "Управление индустриально-инновационной инфраструктурой",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-8d6eb6dba2a444e19f2dd4507c925564",
+    "Process": "Планирование поддержки индустриальноинновационной деятельности",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-d5472d9358444d359917376675034d9a",
+    "Process": "Контроль ввоза/вывоза драгметаллов и сырьевых товаров",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-25b8c1f00d68469eae2868fb4a662e59",
+    "Direction": "ПЕРЕРАБАТЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-61185636411944aa9e2791fc9347b700",
+    "Process": "Увеличению доли казахстанского содержания",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-64c83bba3a884d4fb67106e03a04c898",
+    "Direction": "ДОБЫВАЮЩАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-868f9eb65a9f4e04a49e73f1151803e8",
+    "Process": "Развитие горно-металлургического комплекса (ГМК)",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-f27f38e12e9a46099e86b31badccbc11",
+    "Direction": "НЕФТЕГАЗОХИМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-637366c1ff534b8b8379c407448135ff",
+    "Process": " Управление реализацией и потреблением сырья и продукции",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-f27f38e12e9a46099e86b31badccbc11",
+    "Direction": "НЕФТЕГАЗОХИМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-bcebbf464b50422e954c86a138908214",
+    "Process": "Мониторинг производства",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-f27f38e12e9a46099e86b31badccbc11",
+    "Direction": "НЕФТЕГАЗОХИМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-cd7e3f2c4cbf4cf4a12358546a9c88fd",
+    "Process": "Переработка сырья и нефтепродуктов",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-f27f38e12e9a46099e86b31badccbc11",
+    "Direction": "НЕФТЕГАЗОХИМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-1c266c73407541dd8a1c3aaeae21f06c",
+    "Process": "Создание и модернизация инфраструктуры",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-f27f38e12e9a46099e86b31badccbc11",
+    "Direction": "НЕФТЕГАЗОХИМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-e5302bd1b5f0417084637d7eb632e177",
+    "Process": "Транспортировка нефти и газа",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-f27f38e12e9a46099e86b31badccbc11",
+    "Direction": "НЕФТЕГАЗОХИМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-b742939f2619463e9d535c4c154dbbdc",
+    "Process": "Учет производства",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-67f659d3253b40d6ad7950e7ae11baad",
+    "Direction": "ЭЛЕКТРОННАЯ И АЭРОКОСМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-9e0e2ee9666b4c1cae33c5ae8974d7c7",
+    "Process": "Контроль за сохранностью объектов комплекса \"Байконур\"",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-67f659d3253b40d6ad7950e7ae11baad",
+    "Direction": "ЭЛЕКТРОННАЯ И АЭРОКОСМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-8b3134025e1d464d9619fcf58cfbe628",
+    "Process": "Космический мониторинг окружающей среды",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-67f659d3253b40d6ad7950e7ae11baad",
+    "Direction": "ЭЛЕКТРОННАЯ И АЭРОКОСМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-79c081318d564940945854cf0befd158",
+    "Process": "Лицензирование в сфере использования космического пространства",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-67f659d3253b40d6ad7950e7ae11baad",
+    "Direction": "ЭЛЕКТРОННАЯ И АЭРОКОСМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-c3cb34d9c1684d14a49baf0bad5f4108",
+    "Process": "Научно-исследовательские и опытно-конструкторские работы",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-67f659d3253b40d6ad7950e7ae11baad",
+    "Direction": "ЭЛЕКТРОННАЯ И АЭРОКОСМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-84a21e4f638c4890883dce047b48f51f",
+    "Process": "Регистрация космических объектов",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  },
+  {
+    "Domen": "Промышленность",
+    "ID Direction": "id-67f659d3253b40d6ad7950e7ae11baad",
+    "Direction": "ЭЛЕКТРОННАЯ И АЭРОКОСМИЧЕСКАЯ ПРОМЫШЛЕННОСТЬ",
+    "ID Process": "id-ec11f165cefc4e3897a75a40cd9ee8c0",
+    "Process": "Утилизация космических объектов и технических средств",
+    "Documentation": "",
+    "Owner": "Министерство промышленности и строительства РК"
+  }
+]
